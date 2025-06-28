@@ -1,5 +1,8 @@
 # 🔍 TECO Customer Churn Prediction – Subscription-Based Service
 
+
+![Dashboard](Telco_Customer_Churn%20Dashboard.png)
+
 ## 📝 Introduction
 
 Customer churn is a critical challenge for subscription-based businesses, where long-term revenue and growth depend on retaining existing customers. This project aims to **analyze historical customer behavior** and develop a predictive model to **identify at-risk customers** for **TECO**, a simulated telecom and internet service provider.
